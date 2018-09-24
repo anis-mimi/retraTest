@@ -2,6 +2,9 @@
 title: Popular A.I and Robot
 date: 2018-8-02 14:03:00
 category: Top Gadgets
+tags:
+	- popular
+	- robot
 ---
 
 ![](/images/7.jpg)

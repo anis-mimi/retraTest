@@ -1,7 +1,10 @@
 ---
 title: Cyborgs, and interstellar probes
-date: 2017-9-24 05:30:00
+date: 2018-9-24 05:30:00
 category: AI Future
+tags:
+	- future
+	- research
 ---
 
 ![](/images/1.jpg)

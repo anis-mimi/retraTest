@@ -1,7 +1,10 @@
 ---
 title: Focusing on AI tools
-date: 2017-9-10 10:00:00
+date: 2018-9-10 10:00:00
 category: Customer Service
+tags:
+	- service
+	- future
 ---
 
 ![](/images/4.jpg)

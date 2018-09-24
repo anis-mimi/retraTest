@@ -1,7 +1,9 @@
 ---
 title: Last Week in Tech
-date: 2017-8-17 07:44:00
+date: 2018-8-17 07:44:00
 category: News
+tags:
+	- robot
 ---
 
 ![](/images/5.jpg)

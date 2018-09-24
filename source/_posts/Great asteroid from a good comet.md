@@ -1,7 +1,10 @@
 ---
 title: Great asteroid from a good comet
-date: 2017-8-21 13:09:00
+date: 2018-8-21 13:09:00
 category: AI Future
+tags:
+	- comet
+	- future
 ---
 
 ![](/images/2.jpg)

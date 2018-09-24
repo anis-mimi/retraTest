@@ -1,7 +1,9 @@
 ---
 title: Making AI service
-date: 2017-8-12 13:09:00
+date: 2018-8-12 13:09:00
 category: Customer Service
+tags:
+	- service
 ---
 
 ![](/images/3.jpg)

@@ -1,7 +1,10 @@
 ---
 title: Drones, AI, and good meetings
-date: 2017-9-17 14:03:00
+date: 2018-9-17 14:03:00
 category: News
+tags:
+	- drone
+	- future
 ---
 
 ![](/images/6.jpg)

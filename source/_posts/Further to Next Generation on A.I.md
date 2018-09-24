@@ -2,6 +2,9 @@
 title: Further to Next Generation on A.I
 date: 2018-9-07 15:11:00
 category: AI Next Generation
+tags:
+	- future
+	- algorithm
 ---
 
 ![](/images/8.jpg)
