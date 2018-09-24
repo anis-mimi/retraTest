@@ -39,7 +39,7 @@ Misty Robotics introduced its Misty We robot at CES as well. The bot offers prog
 
 ## What about the humanoids?
 
-We 1st met Sophia from Hanson Robotics back in 2016. Her kinda-human encounter straddles the border between outstanding and nightmarish. This season, the bot received a body that can take actual guidelines. They’re precarious rather than particularly useful, but she took steps. Even now, watching her wobble produces Sophia's viability as an individual robot appear like it's decades apart.
+We 1st met Sophia from Hanson Robotics back in 2016. Her kinda-human encounter straddles the border between outstanding and nightmarish. This season, the bot received a body that can take actual guidelines. They're precarious rather than particularly useful, but she took steps. Even now, watching her wobble produces Sophia's viability as an individual robot appear like it's decades apart.
 
 ### SOPHIA
 
