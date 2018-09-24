@@ -15,7 +15,7 @@ Drones, AI, and good meetings at the beginning of the Microsoft Build conference
 
 Microsoft kicked off its annual conference for developers, called Build, on Monday. 'the world is now a computer,' Satya Nadella, the company's CEO, stated towards the beginning of his keynote address, describing just how that computing ability is getting to be found all over the place, from automobiles to drones to homes. That pretty unsurprising idea, plus serious doses of speak about artificial cleverness, AI and accessibility, blended actuality, chatbots, the cloud, and the 'edge' the pcs and phones you actually interact with-defined the first hours of the function.
 
-<!-- more >
+<!-- more -->
 
 ## We got to find Alexa and Cortana going out
 
